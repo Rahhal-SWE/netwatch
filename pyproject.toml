@@ -1,0 +1,9 @@
+[project]
+name = "netwatch"
+version = "0.1.0"
+description = "Simple host availability + latency monitor (ping) with logging and summary metrics"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

@@ -1,3 +1,5 @@
+![CI](https://github.com/Rahhal-SWE/netwatch/actions/workflows/ci.yml/badge.svg)
+
 # netwatch (Python CLI)
 
 Linux-friendly CLI tool that monitors host availability and latency using `ping`,
